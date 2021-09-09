@@ -3,6 +3,8 @@
 
 ⚡ Estou no 1° ano do curso de Desenvolvimento de Sistemas na ETEC <br> 
 
+🚀16y <br> 
+
 ♟️ Enxadrista
  <br> <br> 
 🌱 Atualmente estudando: <br>
