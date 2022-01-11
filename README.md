@@ -1,7 +1,7 @@
    ### ♟️ Olá! Meu nome é Eduardo Frasson ♟️ 
 <br>
 
-⚡ Estou no 1° ano do curso de Desenvolvimento de Sistemas na ETEC <br> 
+⚡ Estou no 2° ano do curso de Desenvolvimento de Sistemas na ETEC <br> 
 
 🚀16y <br> 
 
