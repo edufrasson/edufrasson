@@ -8,8 +8,8 @@
 ♟️ Enxadrista
  <br> <br> 
  <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edufrasson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufrasson&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edufrasson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufrasson&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
 🌱 Atualmente estudando:
@@ -23,4 +23,3 @@
      <img align="center" alt="Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
 <br>
-
