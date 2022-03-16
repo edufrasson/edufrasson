@@ -1,18 +1,30 @@
    ### ♟️ Olá! Meu nome é Eduardo Frasson ♟️ 
 <br>
 
-⚡ Estou no 2° ano do curso de Desenvolvimento de Sistemas na ETEC <br> 
+<h3>
+   ⚡ Estou no 2° ano do curso de Desenvolvimento de Sistemas na ETEC
+</h3> 
 
-🚀16y <br> 
+<br> 
 
+<h3>
+   🚀16y
+</h3>
+   
+<br> 
+
+<h3>
 ♟️ Enxadrista
- <br> <br> 
+</h3> 
+   <br> <br> 
  <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edufrasson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufrasson&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
+<h3>
 🌱 Atualmente estudando:
+ </h3>
 <br><br>
  <div style="display: inline_block">  
      <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
