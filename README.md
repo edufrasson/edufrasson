@@ -11,10 +11,10 @@
 <h3>
 ♟️ Enxadrista
 </h3> 
- <hr> 
+
  
-<br>
-<hr>
+
+
 <h3>
 🌱 Atualmente estudando:
  </h3>
