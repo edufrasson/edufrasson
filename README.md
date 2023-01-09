@@ -3,7 +3,7 @@
 <hr>
 
 <h3>
-   ⚡ Estou no 2° ano do curso de Desenvolvimento de Sistemas na ETEC
+   ⚡ Estou no 3° ano do curso de Desenvolvimento de Sistemas na ETEC
 </h3> 
 <h3>
    🚀17y
