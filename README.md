@@ -14,7 +14,7 @@
 <h3 align="left">Estatísticas:</h3>
 
 <div style="display: flex; justify-content: space-between;">
-  <p><img hegiht="200" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=edufrasson&" alt="edufrasson" /></p>
-  <p><img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufrasson&layout=compact" alt="edufrasson" /></p>
+  <p><img hegiht="200" width="450" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=edufrasson&" alt="edufrasson" /></p>
+  <p><img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufrasson&layout=compact" alt="edufrasson" /></p>
 </div>
 
