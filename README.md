@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Meu nome é Eduardo Frasson</h1>
-<h3 align="center">Estou no 3° ano do curso de Desenvolvimento de Sistemas na ETEC</h3>
+<h1 align="center">Olá 👋 Meu nome é Eduardo Frasson</h1>
+<h3 align="center">Estou no 1o semestre do curso de Desenvolvimento de Software Multiplataforma na FATEC Jahu</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
