@@ -16,7 +16,7 @@ I`m a web developer, currently studying Multiplatform Software Development at Fa
 
 ### Frameworks and Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=laravel,react,vue,tailwind,vite,mysql,nodejs,jquery" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,astro,laravel,react,tailwind,vite,mysql,nodejs,jquery" />
 </a>
 
 ### Tools and Platforms
